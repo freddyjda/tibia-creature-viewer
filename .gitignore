@@ -2,3 +2,5 @@ node_modules/
 data/parsed/*.db-shm
 data/parsed/*.db-wal
 data/parsed/creatures_api.json
+
+.vercel
