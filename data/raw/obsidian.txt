@@ -1,0 +1,1544 @@
+1st Mate Ratticus	0	5	0	39
+A Weak Spot	1	11	12	99
+Abyssador	0	3	0	22
+Abyssal Calamary	0	19	0	61
+Achad	0	1	0	15
+Acid Blob	0	870	0	5,404
+Acolyte of Darkness	0	0	0	28
+Acolyte of the Cult	0	1,864	1	15,599
+Adept of the Cult	0	3,181	0	22,348
+Adlerauge	0	3	0	42
+Adult Goanna	5	10,191	59	76,081
+Adventurer	0	51	0	422
+Adventurers Bane	0	25	0	350
+Adventurers Nemesis	0	21	0	276
+Afflicted Strider	0	728	0	5,095
+Aftershock	0	1	0	6
+Aggressive Lava	0	20	0	464
+Aggressive Matter	0	12	0	278
+Agrestic Chicken	0	12	0	163
+Ahau	0	76	1	662
+Alchemistical Container	0	1,193	0	7,988
+Alliance Pillar	0	15	0	15
+Alliance Tower	0	2	0	2
+Allusion	0	3	0	13
+Alptramun	0	0	1	21
+Amazon	0	2,698	0	18,010
+Amenef The Burning	0	19	0	121
+An Astral Glyph	0	0	0	2
+An Observer Eye	0	1	1	4
+Ancient Lion Knight	0	54	1	410
+Ancient Lion Warlock	0	1	0	16
+Ancient Scarab	1	6,124	4	63,260
+Ancient Ugly Monster	0	0	0	81
+Angry Demon	0	3	0	27
+Angry Elemental	0	96	1	126
+Angry Sugar Fairy	0	489	0	3,021
+Animated Feather	3	954	12	15,065
+Animated Sword	0	0	0	220
+Anmothra	0	27	4	37
+Annihilon	0	316	0	1,390
+Anomaly	0	30	0	241
+Antenna	0	148	0	1,006
+Arachir The Ancient One	0	1	0	1
+Arachnophobica	17	8,864	45	89,735
+Arbaziloth	0	4	0	18
+Arctic Faun	0	14	0	74
+Armadile	0	1,048	0	8,124
+Arthom the Hunter	0	0	0	1
+Ashmunrah	0	0	0	2
+Askarak Demon	0	1,210	0	2,249
+Aspect Of Power	0	125	0	828
+Assassin	0	1,617	1	23,380
+Atab	0	19	0	277
+Avalanche	0	1	0	14
+Avid Reader	0	0	0	1
+Axeitus Headbanger	0	1	0	15
+Ayana The Crimson Curse	0	18	0	137
+Azure Frog	0	426	0	2,738
+Bad Thought	0	904	0	5,043
+Badger	0	4,836	0	39,543
+Bakragore	0	3	22	40
+Bandit	0	1,248	0	9,681
+Banshee	0	2,417	0	22,025
+Barbaria	0	0	0	1
+Barbarian Bloodwalker	0	1,224	0	7,990
+Barbarian Brutetamer	0	1,179	0	8,684
+Barbarian Headsplitter	0	2,527	0	19,072
+Barbarian Skullhunter	0	2,986	0	22,007
+Barkless Devotee	0	185	0	1,495
+Barkless Fanatic	1	796	1	2,934
+Baron Brute	0	0	0	1
+Bashmu	3	7,076	9	40,406
+Bat	0	4,527	0	34,358
+Battlemaster Zunzu	0	1	0	2
+Bear	0	1,853	0	10,879
+Behemoth	4	5,649	10	50,508
+Berrypest	0	0	0	56
+Berserker Chicken	0	175	0	1,941
+Betrayed Wraith	0	9,590	2	74,210
+Big Boss Trolliver	0	0	1	1
+Biting Book	0	1,075	1	8,640
+Biting Cold	0	5	1	26
+Black Cobra	0	11	0	51
+Black Knight	0	7	0	44
+Black Sheep	0	3	0	105
+Black Sphinx Acolyte	1	7,119	5	40,620
+Black Vixen	0	69	0	546
+Blamana	0	3	0	5
+Blastberry	0	3	0	13
+Blasting Flame	0	0	0	239
+Blazing Fire Elemental	0	0	0	178
+Blemished Spawn	0	1,924	2	14,402
+Blight Bug	0	0	0	1
+Blight Mariner	0	19	0	124
+Blight Spitter	0	18	0	129
+Blightwalker	0	14,399	1	111,130
+Blissful Times	0	0	0	2
+Blistering Fire Elemental	0	0	0	393
+Bloated Man-maggot	2	4,967	14	30,710
+Blood Beast	4	4,657	13	44,977
+Blood Crab	0	3,966	1	24,441
+Blood Hand	0	233	0	1,437
+Blood Pool	0	110	2	339
+Blood Priest	0	371	0	3,728
+Bloodback	0	68	0	599
+Bloodjaw	0	1,637	4	22,244
+Bloodpaw	0	1	0	15
+Blue Djinn	0	1,356	0	13,228
+Bluebeak	0	3,269	1	23,399
+Boar	0	860	0	5,475
+Boar Man	1	11,230	9	85,649
+Bog Frog	0	16	0	229
+Bog Raider	0	831	2	7,184
+Bombat	0	10	0	42
+Bone Barrier	0	224	0	793
+Bone Bear	0	410	2	1,622
+Bone Capsule	0	9	0	229
+Bone Jaw	0	40	0	165
+Bonebeast	1	5,810	5	56,232
+Bonelord	0	1,928	0	13,757
+Bonelord's Phylactery	2	11	3	40
+Bony Sea Devil	3	8,862	23	46,301
+Boogey	0	0	0	2
+Boogy	0	413	2	5,158
+Bookworm	0	0	0	2
+Bound Ape	0	24	0	143
+Bound Astral Power	0	0	0	7
+Bound Cave Spider	0	43	0	243
+Bound Iks aucar	0	74	0	429
+Bovinus	0	1	0	15
+Brachiodemon	0	200	13	3,702
+Bragrumol	0	15	0	86
+Brain Head	0	16	0	104
+Brain Parasite	0	54	0	461
+Brain Squid	2	4,119	13	31,657
+Braindeath	0	540	2	7,978
+Bramble Wyrmling	0	1,589	0	8,708
+Branchy Crawler	0	3,500	7	15,763
+Breach Brood	0	13,877	2	111,020
+Bretzecutioner	0	0	0	1
+Brimstone Bug	0	4,105	2	33,467
+Brinebrute Inferniarch	0	906	0	3,361
+Broken Shaper	1	926	2	5,675
+Brokul	0	9	0	105
+Broodrider Inferniarch	0	7,775	3	51,344
+Brother Chill	0	5	0	31
+Brother Freeze	0	5	0	31
+Brother Worm	0	12	0	91
+Bruton	0	32	0	230
+Bug	0	1,406	1	10,818
+Bulltaur Alchemist	1	5,700	6	44,241
+Bulltaur Brute	0	7,124	1	55,286
+Bulltaur Forgepriest	1	3,470	8	26,777
+Bullwark	0	0	0	17
+Burning Book	0	3,767	6	49,316
+Burning Gladiator	2	8,996	31	52,642
+Burster Spectre	1	9,435	16	83,529
+Butterfly	0	386	0	3,077
+Calamary	0	60	0	463
+Candy Floss Elemental	0	428	0	2,577
+Candy Horror	3	4,811	10	55,814
+Capricious Phantom	3	8,036	13	41,196
+Captain Jones	0	0	0	1
+Carniphila	0	783	0	4,238
+Carnisylvan Sapling	0	2,171	0	18,239
+Carnivostrich	0	6,751	8	52,837
+Carrion Worm	0	977	0	9,195
+Cat	0	278	0	2,365
+Cave Chimera	0	35	1	4,775
+Cave Devourer	0	2,611	3	21,711
+Cave Hydra	0	30	0	175
+Cave Parrot	0	121	0	868
+Cave Rat	0	1,345	0	10,604
+Cellar Rat	0	17	0	238
+Centipede	0	2,437	0	16,449
+Cerebellum	0	136	0	729
+Chagorz	0	7	9	62
+Chakoya Toolshaper	0	1,118	0	8,861
+Chakoya Tribewarden	0	1,062	0	8,689
+Chakoya Windcaller	0	440	0	3,776
+Charged Anomaly	0	0	2	2
+Charged Imp	0	0	0	25
+Charger	1	2,943	1	25,956
+Charging Outburst	0	87	0	693
+Chasm Spawn	0	5,884	2	45,155
+Chicken	0	450	0	4,828
+Chikhaton	0	94	0	336
+Chizzoron The Distorter	0	0	0	1
+Chocolate Blob	0	42	0	239
+Choking Fear	1	16,582	22	126,807
+Cinder Wyrmling	0	1,513	3	16,874
+Clavius	0	10	0	46
+Clay Guardian	0	2,318	3	18,440
+Cliff Strider	0	4,236	0	31,111
+Cloak of Terror	0	1,289	10	15,408
+Clomp	1	2,389	1	20,117
+Cobra	0	1,800	0	11,203
+Cobra Assassin	7	16,442	14	104,058
+Cobra Scout	1	10,730	9	69,177
+Cobra Vizier	5	5,021	25	30,100
+Cockroach	0	0	0	8
+Coldheart	0	0	0	1
+Colerian The Barbarian	0	1	0	15
+Common Beetle	0	0	0	2
+Concentrated Death	0	8	0	31
+Condensed Sins	0	129	0	1,033
+Containment Crystal	0	23	0	134
+Containment Machine	0	8	0	50
+Converter	2	3,706	7	40,980
+Coral Frog	0	404	0	1,930
+Corrupt Naga	1	2,376	5	15,200
+Corrupted Ghost	0	74	0	677
+Corrupted Skeleton	0	100	0	616
+Corrupted Soul	0	140	0	738
+Corym Charlatan	0	2,427	0	18,039
+Corym Skirmisher	1	1,979	2	13,763
+Corym Vanguard	0	966	2	7,747
+Cosmic Energy Prism A	0	9	0	61
+Cosmic Energy Prism B	0	9	0	61
+Cosmic Energy Prism C	0	9	0	61
+Cosmic Energy Prism D	0	9	0	61
+Count Vlarkorth	3	22	8	178
+Countess Sorrow	0	0	0	1
+Courage Leech	0	738	0	8,389
+Court Warlock	0	28	0	211
+Crab	0	1,253	0	9,198
+Crape Man	0	33,791	5	249,020
+Crate	0	13	0	32
+Crawler	0	6,025	4	37,917
+Crazed Beggar	0	328	0	2,245
+Crazed Summer Rearguard	1	7,060	11	65,589
+Crazed Summer Vanguard	1	6,629	11	62,863
+Crazed Winter Rearguard	2	5,736	7	40,994
+Crazed Winter Vanguard	1	6,532	4	43,736
+Cream Blob	0	49	0	191
+Creepy Crawler	0	1,868	0	10,725
+Crimson Frog	0	473	0	2,709
+Crocodile	0	2,725	0	21,133
+Crultor	0	33	0	230
+Crusader	1	7,385	2	40,051
+Crusader Guardian	0	380	1	2,419
+Crypt Construct	4	2,560	19	14,670
+Crypt Defiler	0	1,715	0	16,886
+Crypt Fiend	2	3,301	2	18,863
+Crypt Mage	1	3,138	1	20,214
+Crypt Shambler	0	1,973	3	19,796
+Crypt Warden	2	9,542	7	58,512
+Crypt Warrior	0	11,481	15	94,027
+Crystal Spider	0	458	0	3,248
+Crystal Wolf	0	3	0	28
+Crystalcrusher	0	310	0	2,136
+Cublarc the Plunderer	0	0	0	4
+Cult Believer	0	4,573	1	39,258
+Cult Enforcer	0	2,633	0	24,200
+Cult Initiate	0	54	0	369
+Cult Scholar	0	329	0	6,366
+Cunning Werepanther	0	15,470	2	92,404
+Cursed Ape	0	334	0	3,755
+Cursed Book	0	12	0	2,108
+Cursed Gladiator	0	1	0	15
+Cursed Prospector	0	60	2	1,973
+Custodian	0	8	0	87
+Cyclops	5	3,673	20	32,714
+Cyclops Drone	0	1,482	2	12,549
+Cyclops Smith	0	1,251	1	9,738
+Cyclursus	0	6,022	0	39,449
+Damage Resonance	0	49	0	384
+Damaged Crystal Golem	0	3	0	82
+Damaged Worker Golem	0	61	0	556
+Damned Soul	0	0	0	61
+Darakan the Executioner	0	2	0	15
+Dark Apprentice	0	3,250	0	19,788
+Dark carnisylvan	0	1,666	0	18,593
+Dark Druid	0	33	0	214
+Dark Faun	0	1,293	14	12,327
+Dark Knight	0	48	0	436
+Dark Knowledge	0	39	0	181
+Dark Magician	0	2,075	0	13,363
+Dark Merudri	0	17	0	173
+Dark Monk	0	556	0	7,231
+Dark Paladin	0	76	0	665
+Dark Sorcerer	0	15	0	143
+Dark Torturer	0	25,098	5	193,779
+Darkfang	0	72	0	590
+Darklight Construct	1	2,364	4	25,894
+Darklight Emitter	2	4,386	6	48,269
+Darklight Matter	1	7,647	9	55,743
+Darklight Source	1	4,978	19	35,212
+Darklight Striker	0	9,140	11	65,529
+Dawnfire Asura	4	16,546	21	105,757
+Dazed Leaf Golem	0	43	0	417
+Death Blob	0	4,120	0	38,131
+Death Dragon	0	0	0	164
+Death Priest	0	2,037	0	13,500
+Death Priest Shargon	0	0	0	2
+Deathbringer	0	2	0	13
+Deathling Scout	1	3,898	11	42,924
+Deathling Spellsinger	0	2,348	6	25,057
+Deathspawn	2	23,541	4	99,415
+Deathstrike	0	3	0	24
+Decaying Totem	0	0	3	0
+Deep Terror	0	0	0	3
+Deepling Brawler	0	8	0	108
+Deepling Elite	0	16	0	147
+Deepling Guard	1	3,790	6	23,032
+Deepling Master Librarian	0	500	1	3,182
+Deepling Scout	0	3,778	0	23,493
+Deepling Spellsinger	0	8,474	3	51,542
+Deepling Tyrant	0	290	0	1,209
+Deepling Warrior	0	5,786	4	34,766
+Deepling Worker	0	94	0	1,163
+Deepsea Blood Crab	0	174	0	3,646
+Deepworm	0	2,462	0	23,326
+Deer	0	548	0	6,100
+Defiler	0	1,869	0	20,316
+Demodras	0	0	0	1
+Demon	0	13,012	11	107,287
+Demon Blood	0	59	0	330
+Demon Outcast	1	4,183	6	38,510
+Demon Parrot	0	0	0	4
+Demon Skeleton	4	4,455	13	35,799
+Demon Slave	0	21	0	124
+Depolarized Crackler	0	282	0	2,282
+Despair	0	0	0	62
+Desperate Soul	0	0	0	2
+Desperate White Deer	0	46	0	395
+Despor	0	34	0	228
+Destrier	0	8	0	102
+Destroyer	0	830	3	4,730
+Devourer	2	3,425	8	35,205
+Devovorga	0	0	4	0
+Dharalion	0	1	0	1
+Diabolic Imp	0	86	0	375
+Diamond Servant	0	41	0	1,541
+Diamond Servant Replica	0	172	1	862
+Digestive Ooze	0	38	0	83
+Dipthrah	0	1	0	1
+Diremaw	2	3,764	6	42,587
+Dirtbeard	0	0	0	2
+Diseased Bill	0	0	0	37
+Diseased Dan	0	19	0	155
+Diseased Fred	0	1	0	32
+Disgusting Ooze	0	44	0	980
+Disruption	0	9	0	124
+Distorted Phantom	8	2,388	24	12,539
+Doctor Marrow	3	0	15	0
+Doctor Perhaps	0	0	0	2
+Dog	0	345	0	2,481
+Domestikion	1	34	1	143
+Donkey	0	9	0	155
+Doom Deer	0	0	0	10
+Doomhowl	0	0	0	1
+Dorokoll The Mystic	0	7	0	61
+Dracola	0	0	0	1
+Dragolisk	0	12,273	5	97,793
+Dragon	0	7,235	20	54,314
+Dragon Hatchling	0	4,538	0	31,809
+Dragon Lord	2	9,333	14	52,198
+Dragon Lord Hatchling	0	2,519	0	12,358
+Dragon Servant	0	26	0	162
+Dragon Wrath	0	17	0	128
+Dragonling	0	33	0	33
+Draken Abomination	0	1,848	2	15,734
+Draken Elite	0	935	3	8,976
+Draken Spellweaver	3	13,764	17	82,374
+Draken Warmaster	1	24,206	8	147,561
+Draptor	0	0	0	1
+Drasilla	0	1	0	14
+Dread Intruder	4	12,388	29	99,288
+Dread Minion	0	129	0	1,426
+Dreadbeast	0	42	0	303
+Dreadful Disruptor	0	0	1	12
+Dreadful Harvester	0	145	2	1,590
+Dreadwing	0	0	0	1
+Drillworm	3	5,506	8	46,823
+Dromedary	0	369	0	2,875
+Drowned Deck Hand	0	144	0	983
+Druid Rival	0	4	1	82
+Druid's Apparition	0	1,051	3	5,710
+Drume	0	245	1	1,819
+Duke Krule	0	23	4	196
+Dwarf	0	1,810	0	12,825
+Dwarf Geomancer	0	509	0	3,303
+Dwarf Guard	1	2,344	3	18,782
+Dwarf Henchman	0	0	0	950
+Dwarf Soldier	0	3,805	0	26,988
+Dworc Fleshhunter	0	3,486	0	26,004
+Dworc Shadowstalker	0	1,990	1	15,900
+Dworc Venomsniper	0	3,154	0	24,733
+Dworc Voodoomaster	0	1,037	0	8,568
+Earl Osam	0	23	0	186
+Earth Elemental	0	410	0	1,562
+Earworm	0	0	0	192
+Echo Of Chagorz	0	0	0	2
+Echo Of Ichgahal	0	0	1	4
+Echo Of Murcion	0	0	0	1
+Echo Of Vemiath	0	0	0	1
+Efreet	0	1,388	0	7,527
+Ekatrix	0	0	0	4
+Elder Bloodjaw	0	5	7	33
+Elder Bonelord	0	559	1	2,497
+Elder Forest Fury	0	9	0	633
+Elder Mummy	0	2,894	0	21,287
+Elder Wyrm	5	13,137	32	102,495
+Eldritch Dragon Lord	0	11	0	60
+Elephant	0	524	0	3,858
+Elf	0	8,884	0	59,226
+Elf Arcanist	0	5,107	0	37,146
+Elf Scout	0	10,644	1	67,873
+Elite Pirat	0	647	0	4,973
+Eliz The Unyielding	0	7	0	61
+Elyrax's Soulcage	1	14	2	55
+Elyrax's Spirit	0	14	0	55
+Ember Beast	0	15	0	251
+Emerald Damselfly	0	778	0	11,130
+Emerald Tortoise	1	583	16	3,945
+Empowered Glooth Horror	0	0	0	60
+End Of Days	4	438	16	3,282
+Energetic Book	1	7,286	4	53,451
+Energised Raubritter	1	97	4	804
+Energized Raging Mage	0	7	0	56
+Energuardian of Tales	0	4,915	3	34,854
+Energy Elemental	0	3,944	1	27,364
+Enfeebled Silencer	0	9,891	0	66,133
+Enlightened of the Cult	0	2,264	0	16,151
+Enraged Crystal Golem	0	17	0	703
+Enraged White Deer	0	24	0	177
+Enslaved Dwarf	0	121	1	1,083
+Enthralled Demon	0	73	1	1,313
+Enthralled Dragon	2	0	7	0
+Enusat The Onyx Wing	0	7	0	52
+Eradicator	1	30	3	236
+Eruption of Destruction	0	25	0	183
+Eshtaba The Conjurer	0	7	0	61
+Essence Of Malice	0	7	0	61
+Eternal Guardian	0	3,484	0	22,901
+Evil Mastermind	0	0	0	1
+Evil Prospector	0	19	1	698
+Evil Sheep	0	0	0	23
+Evil Sheep Lord	0	0	0	3
+Excess Heat	0	0	0	61
+Execowtioner	0	988	0	10,828
+Exotic Bat	4	16,117	30	121,198
+Exotic Cave Spider	5	8,881	43	71,004
+Eye of the Seven	1	0	2	0
+Eyeless Devourer	0	1,197	0	8,171
+Faceless Bane	0	58	0	439
+Fairy Tail Rabbit	0	0	0	3
+Falcon Knight	2	23,636	19	177,276
+Falcon Paladin	7	19,737	54	143,985
+Fallen Mooh'tah Master Ghar	0	2	0	13
+Fatal Bug	0	11	0	63
+Fatality	0	0	0	1
+Faun	1	318	4	3,973
+Fear	0	65	0	572
+Feeble Glooth Horror	0	0	0	4
+Feral Sphinx	3	8,840	23	62,528
+Feral Werecrocodile	0	3,943	7	26,588
+Ferumbras Mortal Shell	0	1	0	15
+Ferumbras Soul Splinter	0	8	0	128
+Fetter	0	24	1	203
+Feverish Citizen	0	821	0	3,954
+Feversleep	0	2,005	3	15,147
+Fiery Blood	0	0	0	77
+Fiery Heart	0	10	0	190
+Filth Toad	0	4	0	130
+Fiona Firstdream	0	12	0	64
+Fire Devil	0	620	0	4,024
+Fire Elemental	0	21,002	1	180,511
+Fire Overlord	0	0	0	12
+Fireling	0	0	0	3
+Firestarter	0	445	0	3,674
+Fish	0	1,330	0	6,050
+Flamecaller Zazrak	0	0	0	1
+Flamingo	0	250	0	2,405
+Fleeting Thought	0	26	0	209
+Flimsy Lost Soul	8	28,751	53	199,342
+Floating Savant	4	14,869	19	112,154
+Flying Book	0	571	0	5,079
+Foam Stalker	0	3,616	3	32,451
+Force Field	0	58	0	243
+Foreshock	0	29	0	234
+Forest Fury	2	3,022	2	16,347
+Fox	0	3,474	0	33,768
+Frazzlemaw	5	39,507	40	226,170
+Freakish Lost Soul	3	4,673	21	46,683
+Freed Soul	0	4	0	12
+Frenzied Plant Thing	0	0	0	8
+Frenzy	0	16	0	174
+Frost Dragon	0	6,654	3	43,371
+Frost Dragon Hatchling	0	4,312	0	28,665
+Frost Flower Asura	5	6,992	17	43,410
+Frost Giant	0	544	0	6,057
+Frost Giantess	0	404	0	4,853
+Frost Troll	0	616	0	5,201
+Frostfur	0	2	0	16
+Frostnight Asura	0	62	0	396
+Frozen Minion	0	11	0	109
+Frozen Raubritter	0	124	6	944
+Frozen Soul	0	0	1	0
+Fruit Drop	0	85	0	606
+Fugue	0	7	0	88
+Fungosaurus	3	35	10	398
+Furious Fire Elemental	0	8	0	14
+Furious Jaracal	0	315	0	2,303
+Furious Scorpion	0	4	0	18
+Furious Troll	0	4	0	76
+Fury	2	25,884	16	212,469
+Fury Of The Emperor	0	1	0	12
+Gaffir	0	7	0	46
+Gang Member	0	814	0	6,750
+Gargoyle	0	1,827	0	15,594
+Gaz'Haragoth	0	0	1	1
+Gazer	0	366	0	3,327
+Gazer Spectre	5	11,088	20	106,505
+Gelidrazah the Frozen	0	10	0	66
+Ghastly Dragon	0	652	1	11,468
+Ghost	0	2,372	0	15,740
+Ghost Of A Planegazer	0	8	0	70
+Ghost Wolf	0	3,042	0	18,752
+Ghoul	0	9,339	8	68,227
+Ghoulish Hyaena	0	1,230	0	10,124
+Ghulosh	0	6	0	31
+Giant Spider	2	5,207	10	36,612
+Gingerbread Man	0	39	0	347
+Girtablilu Warrior	2	9,454	17	84,332
+Gladiator	0	234	0	3,842
+Glitterscale	0	11	0	38
+Gloom Maw	0	4,647	1	29,414
+Gloom Wolf	0	4,337	3	27,886
+Glooth Anemone	0	3,610	1	35,042
+Glooth Bandit	0	11,656	2	92,238
+Glooth Blob	0	16,001	21	148,919
+Glooth Brigand	1	9,506	6	77,762
+Glooth Golem	0	6,465	6	50,962
+Glooth Horror	0	0	0	16
+Glooth Masher	0	0	0	24
+Glooth Powered Minotaur	0	119	0	724
+Glooth Slasher	0	0	0	25
+Glooth Trasher	0	0	0	22
+Gnarlhound	0	897	0	4,223
+Gnomevil	0	3	0	20
+Gnorre Chyllson	0	2	0	13
+Goblin	0	5,492	0	22,141
+Goblin Assassin	0	870	0	3,441
+Goblin Leader	0	59	0	293
+Goblin Scavenger	0	1,541	0	5,552
+Goggle Cake	1	715	1	4,054
+Golden Servant	0	47	0	1,768
+Golden Servant Replica	0	109	0	755
+Goldhanded Cultist	0	27	0	129
+Goldhanded Cultist Bride	0	27	0	133
+Golgordan	0	4	0	33
+Gore Horn	7	593	32	3,895
+Gorerilla	7	576	46	3,908
+Gorga	0	57	0	461
+Gorger Inferniarch	0	6,413	11	45,970
+Gorgo	0	1	0	6
+Gorzindel	0	6	0	31
+Goshnar's Cruelty	0	2	9	19
+Goshnar's Greed	0	0	1	0
+Goshnar's Greed (feeding)	1	2	2	24
+Goshnar's Hatred	0	3	1	27
+Goshnar's Malice	0	3	7	26
+Goshnar's Megalomania	1	3	12	16
+Goshnar's Spite	0	3	1	29
+Gozzler	0	460	0	4,731
+Gralvalon	0	0	0	3
+Grand Canon Dominus	0	62	0	469
+Grand Chaplain Gaunder	0	101	0	783
+Grand Commander Soeren	0	78	1	639
+Grand Master Oberon	1	255	5	1,878
+Grandfather Tridian	0	0	0	1
+Grave Guard	0	2,146	0	15,478
+Grave Robber	0	2,263	0	22,391
+Gravedigger	0	449	2	1,484
+Greater Energy Elemental	0	3	0	53
+Greater Fire Elemental	0	11	0	130
+Greed Worm	0	926	1	6,596
+Greedbeast	0	82	0	1,146
+Greedok	0	33	1	230
+Green Djinn	0	3,787	1	15,726
+Green Frog	0	327	0	2,301
+Grendel Greenlunch	0	12	3	64
+Grim Reaper	2	14,590	17	78,896
+Grimeleech	6	44,025	25	330,356
+Grimgor Guteater	0	1	0	14
+Groam	0	0	0	1
+Grove Guardian	0	4	0	18
+Grynch Clan Goblin	0	0	0	28
+Gryphon	0	29	0	196
+Guard Captain Quaid	0	17	0	113
+Guardian of Tales	0	1,048	6	13,823
+Guzzlemaw	11	19,033	53	111,912
+Hairman The Huge	0	0	0	1
+Hand of Cursed Fate	0	11,461	5	74,299
+Hardened Usurper Archer	1	4	6	36
+Hardened Usurper Knight	0	6	0	53
+Hardened Usurper Warlock	0	6	1	45
+Harpy	0	20,308	6	150,896
+Hatebreeder	0	0	0	1
+Hateful Soul	0	58	0	695
+Haunted Hunter	2	579	7	3,285
+Haunted Treeling	0	994	0	7,148
+Haunter	0	0	0	1
+Hawk Hopper	0	1,864	0	9,737
+Hazardous Phantom	1	174	6	1,179
+Headpecker	0	0	0	932
+Headwalker	2	7,153	6	38,298
+Hellfire Fighter	0	14,344	2	112,223
+Hellflayer	16	39,001	122	290,168
+Hellgorak	0	0	0	3
+Hellhound	0	11,306	13	87,589
+Hellhunter Inferniarch	0	3,314	1	17,782
+Hellspawn	0	10,441	2	80,484
+Heoni	0	85	0	557
+Herald of Fire	0	27	0	220
+Herd Weevil	0	0	0	10
+Hero	0	3,304	4	35,538
+Hibernal Moth	0	330	0	4,496
+Hideous Fungus	1	5,600	14	39,283
+High Templar Cobrass	0	0	0	1
+High Voltage Elemental	0	1,763	0	14,285
+Hirintror	0	0	0	1
+Hive Overseer	0	14	0	178
+Honey Elemental	0	665	0	7,149
+Honour Guard	0	1,963	0	18,395
+Hoodinion	0	34	0	133
+Horadron	0	0	0	1
+Horde Crystal	0	1	0	1
+Horde Pillar	0	15	0	15
+Horde Tower	0	2	0	2
+Horestis	0	0	0	10
+Horrible Dream	0	0	0	229
+Horror	0	62	0	447
+Horse	0	34	0	210
+Hulking Carnisylvan	0	1,894	0	19,684
+Hulking Prehemoth	2	598	6	3,985
+Humongous Fungus	0	7,043	5	51,509
+Humorless Fungus	0	6,972	1	54,104
+Hunger Worm	0	48	0	379
+Hungry Menace	0	68	0	509
+Hunter	0	1,072	1	9,852
+Husky	0	111	0	1,042
+Hyaena	0	2,530	0	17,698
+Hydra	1	4,824	4	34,391
+Ice Crawler	0	10	0	33
+Ice Golem	0	587	1	4,396
+Ice Horror	0	0	5	0
+Ice Overlord	0	0	0	10
+Ice Witch	0	478	0	3,547
+Icecold Book	1	1,632	18	21,794
+Iceplume Strider	1	948	10	6,249
+Ichgahal	1	4	6	55
+Iks ahpututu	0	0	0	30
+Iks aucar	1	491	1	5,631
+Iks chuka	1	422	1	5,160
+Iks Churrascan	0	0	0	149
+Iks pututu	0	312	0	3,998
+Iks Yapunac	1	12,118	10	92,848
+Imp Intruder	0	90	0	610
+Imp Minion	0	0	0	1
+Imp Warden	0	0	0	92
+Imperial	0	2	0	62
+Incineron	0	0	0	1
+Infected Weeper	1	965	1	9,090
+Infernal Demon	0	11	0	429
+Infernal Frog	0	0	0	4
+Infernal Phantom	0	7	2	668
+Infernalist	0	145	0	208
+Infernoid Blob	0	842	1	7,985
+Infernoid Hound	0	572	2	5,623
+Infernoid Minion	0	5	0	107
+Infernoid Soul	0	322	0	3,152
+Infernoid Spiritual	0	353	1	3,844
+Ink Blob	3	704	15	10,431
+Ink Splash	0	42	0	392
+Inkwing	0	13	0	95
+Inky	0	0	0	7
+Innocent Soul	0	10	0	153
+Insane Siren	3	2,971	7	26,830
+Insect Swarm	0	861	0	9,021
+Insectoid Scout	0	0	0	148
+Insectoid Worker	0	3,584	2	19,769
+Instable Breach Brood	0	989	2	3,279
+Instable Fire	0	0	0	162
+Instable Lavaling	0	0	0	22
+Instable Sparkion	1	702	1	2,319
+Invading Demon	0	87	0	571
+Irahsae	2	8	9	9
+Irgix The Flimsy	0	63	1	621
+Iron Servant	0	37	0	1,491
+Iron Servant Replica	0	349	0	2,026
+Ironblight	0	7,068	1	45,481
+Island Troll	0	561	0	4,869
+Izcandar Champion of Summer	0	0	1	27
+Izcandar Champion of Winter	0	0	0	17
+Izcandar the Banished	0	0	0	14
+Jailer	0	221	0	1,537
+Jaracal	0	264	0	1,959
+Jaul	0	0	0	15
+Jellyfish	0	1,889	0	12,239
+Juggernaut	0	5,657	15	35,460
+Jungle Moa	0	1,609	1	11,574
+Juvenile Bashmu	5	11,514	16	67,181
+Kalyassa	0	10	0	66
+Katex Blood Tongue	0	166	0	1,255
+Kerberos	0	1	0	10
+Killer Caiman	0	373	0	3,363
+Killer Rabbit	0	0	0	18
+King Zelos	2	9	23	85
+Knight Rival	0	4	0	83
+Knight's Apparition	0	925	2	4,737
+Knowledge Elemental	0	4,796	7	36,985
+Knowledge Raider	0	115	0	452
+Kollos	0	547	0	4,341
+Kongra	0	2,301	1	21,097
+Koshei The Deathless	0	0	0	2
+Kreebosh the Exile	0	1	0	14
+Kroazur	0	52	0	332
+Kusuma	0	41	0	272
+Lab Assistant	0	0	0	2
+Lacewing Moth	0	594	0	6,075
+Lady Tenebris	0	6	0	44
+Lamassu	1	3,337	22	20,624
+Lancer Beetle	0	427	0	3,633
+Larva	0	7,648	13	62,773
+Last Planegazer	0	1	0	4
+Latrivan	0	4	0	33
+Lava Creature	1	2,080	3	15,754
+Lava Golem	0	3,030	14	29,182
+Lava Lurker	0	26	0	1,451
+Lava Lurker Attendant	0	8,354	2	64,918
+Lavafungus	0	1,431	0	14,176
+Lavaworm	0	2,228	2	23,065
+Leaf Golem	0	544	0	5,549
+Leiden	0	0	1	0
+Lesser Death Minion	0	0	0	6
+Lesser Magma Crystal	0	221	0	1,641
+Lesser Swarmer	0	2,872	1	20,370
+Lethal Lissy	0	0	0	1
+Librarian	0	0	0	12
+Lich	0	698	0	8,333
+Liodile	2	13,602	11	102,193
+Lion	0	1,423	0	9,101
+Lion Archer	0	25	0	193
+Lion Commander	0	135	0	995
+Lion Hydra	1	3,751	5	26,305
+Lion Knight	0	121	0	1,101
+Lion Warlock	0	94	0	782
+Liqour Spirit	0	22	0	152
+Little Corym Charlatan	0	5	0	39
+Lizard Abomination	0	3	0	9
+Lizard Chosen	0	855	1	9,361
+Lizard Commander	0	86	1	807
+Lizard Dragon Priest	0	828	0	6,133
+Lizard Executioner	0	324	0	4,137
+Lizard Henchman	1	1,503	10	14,146
+Lizard High Guard	1	8,671	3	56,570
+Lizard Legionnaire	1	2,803	4	19,370
+Lizard Magician	0	923	3	10,190
+Lizard Magistratus	0	8	0	42
+Lizard Noble	0	10	0	54
+Lizard Sentinel	1	1,436	2	9,943
+Lizard Snakecharmer	0	873	0	4,092
+Lizard Swordmaster	0	542	0	5,983
+Lizard Templar	0	1,766	0	9,772
+Lizard Zaogun	0	3,103	9	27,292
+Lloyd	0	9	1	61
+Lokathmor	1	4	4	25
+Lord Azaram	0	22	1	183
+Lord Retro	0	1	0	4
+Lost Basher	0	791	0	5,492
+Lost Berserker	1	10,687	7	80,487
+Lost Exile	0	6	0	154
+Lost Gnome	0	0	1	40
+Lost Husher	0	476	0	3,556
+Lost Soul	0	8,447	1	71,627
+Lost Thrower	1	800	1	5,268
+Lost Time	0	31	0	218
+Lovely Scorpion	0	0	0	1
+Lumbering Carnivor	2	12,434	18	80,962
+Mad Mage	0	0	0	4
+Mad Scientist	0	589	0	3,291
+Mad Technomancer	0	0	0	10
+Madareth	0	4	0	32
+Magical Sphere	0	182	0	1,471
+Magma Bubble	1	73	8	547
+Magma Crawler	0	3,626	3	34,412
+Magma Fiend	0	0	0	8
+Magmaoid	0	0	0	24
+Magnor Mournbringer	0	9	0	85
+Mahrdis	0	1	0	5
+Maior Domus	1	7	29	100
+Makara	0	4,084	2	32,200
+Malicious Minion	0	23	0	126
+Malicious Soul	0	24	1	213
+Maliz	0	33	1	233
+Malkhar Deathbringer	0	7	0	61
+Malofur Mangrinder	0	6	0	26
+Mamma Longlegs	0	2	0	12
+Mammoth	0	1,200	0	9,833
+Man In The Cave	0	0	0	1
+Manta Ray	0	17	0	108
+Manticore	0	7,227	12	50,470
+Mantosaurus	0	2	0	1,933
+Many Faces	0	3,519	12	18,236
+Marid	0	616	1	6,823
+Marsh Stalker	0	566	0	7,407
+Massacre	0	0	0	1
+Massive Earth Elemental	0	430	0	2,777
+Massive Energy Elemental	0	2	0	168
+Massive Fire Elemental	0	237	0	3,340
+Massive Magmaoid	0	0	0	12
+Massive Water Elemental	0	176	0	1,179
+Mawhawk	0	5	1	27
+Maxxenius	0	0	0	22
+Mazoran	0	0	0	19
+Mazzinor	0	7	0	34
+Mean Lost Soul	3	14,929	63	110,478
+Mean Maw	0	4	2	65
+Mean Minion	0	14	0	97
+Mean Termite	0	42	0	45
+Meandering Mushroom	1	5,188	1	43,012
+Mearidion	0	35	0	108
+Mechanical Fighter	0	4	1	52
+Medusa	1	8,532	9	59,032
+Mega Dragon	0	10,231	6	79,663
+Megasylvan Sapling	0	1	0	3
+Megasylvan Yselda	0	20	0	110
+Melting Frozen Horror	0	3	0	16
+Memory Of A Amazon	0	0	0	196
+Memory Of A Banshee	0	0	0	47
+Memory Of A Book	0	0	0	126
+Memory Of A Carnisylvan	0	31	2	261
+Memory Of A Dwarf	0	0	0	150
+Memory Of A Elf	0	0	0	58
+Memory Of A Faun	0	0	0	127
+Memory Of A Frazzlemaw	0	0	0	116
+Memory Of A Fungus	0	0	0	60
+Memory Of A Golem	0	0	0	159
+Memory Of A Hero	0	0	0	86
+Memory Of A Hydra	0	0	0	48
+Memory Of A Insectoid	0	0	0	101
+Memory Of A Lizard	0	0	0	89
+Memory Of A Mammoth	0	0	0	85
+Memory Of A Manticore	0	0	0	158
+Memory Of A Ogre	0	0	0	181
+Memory Of A Pirate	0	0	0	89
+Memory Of A Scarab	0	0	0	106
+Memory Of A Shaper	0	0	0	106
+Memory Of A Werelion	0	58	0	469
+Memory Of A Wolf	0	6	0	324
+Memory Of A Yalahari	0	0	0	64
+Menace	0	0	0	1
+Menacing Carnivor	1	9,471	9	63,470
+Mephiles	0	0	0	1
+Mercurial Menace	0	1	1	1,756
+Mercury Blob	0	867	0	5,328
+Merlkin	0	1,138	0	9,907
+Metal Gargoyle	0	1,309	3	16,410
+Mezlon The Defiler	0	7	0	61
+Michael The Stalwart	0	0	0	25
+Midnight Asura	3	14,034	29	90,254
+Midnight Panther	0	0	0	28
+Mimar Haffar	1	14	15	143
+Mimic	0	0	0	2
+Mind-Wrecking Dream	0	0	0	211
+Minion of Gaz'haragoth	0	0	0	72
+Minion of Ghazbaran	0	0	0	2
+Minion Of Versperoth	0	23	1	160
+Minor Timedisplaced Anomaly	0	0	0	4
+Minotaur	0	4,612	1	39,400
+Minotaur Amazon	0	1,103	1	9,996
+Minotaur Archer	0	1,132	0	13,495
+Minotaur Cult Follower	0	8,369	0	63,422
+Minotaur Cult Prophet	0	3,808	0	27,851
+Minotaur Cult Zealot	0	2,640	1	19,266
+Minotaur Guard	0	2,743	2	28,840
+Minotaur Hunter	3	4,191	9	31,315
+Minotaur Idol	0	40	0	258
+Minotaur Invader	1	4,988	3	26,592
+Minotaur Mage	0	1,180	0	13,506
+Mint Drop	0	43	0	337
+Misguided Bully	0	542	1	4,352
+Misguided Thief	0	420	0	3,596
+Mister Catkiller	0	4	0	40
+Mitmah Scout	0	9,288	6	87,213
+Mitmah Seer	4	5,884	33	86,700
+Mitmah Vanguard	2	85	17	665
+Modified Gnarlhound	0	0	0	7
+Mole	0	403	0	3,846
+Monk	0	2,180	0	21,247
+Monk Of The Order	0	22	0	133
+Monk Rival	0	4	0	82
+Monk's Apparition	0	571	3	3,249
+Monstor	0	0	0	2
+Mooh'Tah Warrior	1	9,509	4	69,585
+Moohtant	3	3,299	15	24,260
+Moonsilver Augur	0	32	0	343
+Moonsilver Custodian	1	648	4	6,457
+Moonsilver Guardian	0	1,079	0	12,267
+Moonsilver Protector	0	25	0	357
+Moonsilver Sentinel	0	21	1	510
+Moonspawn Blightspitter	0	311	1	1,853
+Moonspawn Juggernaut	0	23	3	190
+Moonspawn Oozecrown	1	288	4	1,799
+Moonstone Excavator	0	364	1	3,577
+Moonstone Miner	0	1,212	1	11,675
+Moonstone Overseer	0	222	0	2,401
+Morguthis	0	1	0	2
+Mould Phantom	0	1,695	4	7,879
+Mounted Thorn Knight	0	5	0	37
+Mozradek	0	0	0	16
+Mr. Punish	0	0	0	1
+Muglex Clan Assassin	3	542	15	3,763
+Muglex Clan Chief	0	8	0	77
+Muglex Clan Footman	1	759	4	5,309
+Mummy	0	5,028	0	38,900
+Murcion	0	5	2	60
+Murmillion	3	414	14	1,741
+Mushroom Sniffer	0	165	0	1,123
+Mutated Bat	0	3,583	0	24,607
+Mutated Human	0	5,617	1	37,284
+Mutated Rat	0	474	0	4,016
+Mutated Tiger	0	701	1	3,468
+Mutated Zalamon	0	4	0	9
+Mycobiontic Beetle	3	6,059	20	37,089
+Myzareth's Soulcage	0	14	0	55
+Myzareth's Spirit	0	14	1	55
+Naga Archer	1	4,959	7	37,980
+Naga Warrior	6	7,983	32	62,977
+Nargol The Impaler	0	9	0	85
+Necromancer	0	1,914	0	14,029
+Necromancer Servant	0	2	0	2
+Necromantic Focus	0	72	0	366
+Necropharus	0	0	0	2
+Neferi the Spy	0	22	0	126
+Neutral Deepling Warrior	0	33	0	443
+Nibblemaw	4	6,688	13	77,375
+Nigel Neverguess	0	12	0	64
+Night Harpy	0	505	2	4,062
+Nighthunter	0	4,595	2	33,872
+Nightmare	1	8,920	3	77,219
+Nightmare of Gaz'haragoth	0	0	0	9
+Nightmare Scion	0	4,275	1	28,897
+Nightmare Tendril	0	139	0	1,326
+Nightmarish Dream	0	0	0	275
+Nightstalker	0	340	1	1,872
+Noble Lion	0	218	0	1,647
+Nomad	0	4,532	1	33,966
+Norcferatu Abomination	0	16	0	35
+Norcferatu Heartless	0	10,464	1	61,627
+Norcferatu Minion	0	226	0	479
+Norcferatu Monstrosity	0	4	0	8
+Norcferatu Nightweaver	2	8,368	5	50,088
+Norgle Glacierbeard	0	2	0	15
+Northern Pike	0	380	0	1,629
+Novice of the Cult	0	826	1	10,350
+Noxious Ripptor	0	1	0	1,885
+Nymph	0	404	0	4,306
+Obujos	0	9	0	25
+Ogre Brute	1	463	2	3,346
+Ogre Rowdy	0	3,330	3	30,742
+Ogre Ruffian	0	3,079	1	26,375
+Ogre Sage	0	1,690	0	14,155
+Ogre Savage	0	216	0	1,325
+Ogre Shaman	0	351	0	2,285
+Old Giant Spider	0	0	0	5
+Omnivora	0	839	0	7,016
+Omruc	0	2	0	11
+Oozing Carcass	0	5,969	4	50,377
+Oozing Corpus	1	7,340	16	44,336
+Orc	0	3,925	2	25,553
+Orc Berserker	0	10,444	2	62,903
+Orc Cult Fanatic	0	1,638	0	5,236
+Orc Cult Inquisitor	0	2,521	3	11,165
+Orc Cult Minion	0	479	0	3,791
+Orc Cult Priest	0	2,018	0	7,656
+Orc Cultist	0	250	0	2,031
+Orc Leader	0	4,286	2	23,031
+Orc Marauder	0	45	0	532
+Orc Rider	0	1,435	0	6,534
+Orc Shaman	0	9,370	0	62,103
+Orc Spearman	0	4,772	0	31,659
+Orc Warlord	2	1,860	3	8,299
+Orc Warrior	0	5,846	2	39,889
+Orchid Frog	0	390	0	2,035
+Orclops Bloodbreaker	0	4,256	3	28,591
+Orclops Doomhauler	0	317	0	1,883
+Orclops Ravager	0	321	0	1,841
+Orcus the Cruel	0	1	0	15
+Orewalker	1	4,962	1	34,894
+Organic Matter	0	3	0	70
+Outburst	0	31	9	237
+Overcharge	0	154	0	1,275
+Overcharged Demon	0	2	0	15
+Overcharged Disruption	0	0	0	2
+Overseer Osverger	0	8	0	105
+Owin	0	23	0	136
+Painapple	0	2	0	7
+Paiz The Pauperizer	0	3	0	13
+Paladin Rival	0	4	0	82
+Paladin's Apparition	0	1,105	1	6,456
+Panda	0	108	0	1,032
+Parasite	0	4,820	0	48,275
+Parder	0	1,906	3	14,602
+Parrot	0	53	0	389
+Penguin	0	1,175	0	11,005
+Percy Peacetinker	1	12	2	64
+Phantasm	0	1,695	1	16,787
+Phobia	0	31	0	293
+Phosphorus	1	2	4	23
+Phrodomo	0	88	4	321
+Pig	0	476	0	2,450
+Pigeon	0	191	0	1,231
+Pillar Of Dark Energy	1	0	8	0
+Pillar Of Death	0	7	0	61
+Pillar Of Draining	0	7	0	61
+Pillar Of Healing	0	7	0	61
+Pillar Of Protection	0	7	0	61
+Pillar Of Summoning	0	7	0	61
+Pirat Bombardier	0	2,928	2	26,455
+Pirat Cutthroat	8	9,120	43	71,948
+Pirat Mate	0	1,310	2	15,784
+Pirat Scoundrel	0	4,138	0	32,387
+Pirate Artillerist	0	2	2	24
+Pirate Buccaneer	0	1,366	1	9,517
+Pirate Cook	0	880	3	6,006
+Pirate Corsair	0	261	0	1,279
+Pirate Cutthroat	0	1,567	1	11,626
+Pirate Ghost	0	154	1	1,115
+Pirate Gunner	0	1,121	0	7,346
+Pirate Marauder	0	3,292	1	26,605
+Pirate Navigator	0	1,287	0	8,189
+Pirate Quartermaster	0	615	0	3,776
+Pirate Ship	0	1	0	19
+Pirate Skeleton	3	516	3	4,233
+Pixie	0	749	1	6,449
+Plagirath	0	1	0	21
+Plagueroot	0	7	0	22
+Plaguesmith	1	10,248	8	90,106
+Plant Abomination	0	48	0	117
+Plant Attendant	0	342	0	612
+Plunder Patriarch	0	0	0	6
+Poacher	0	261	0	3,329
+Poison Spider	0	5,635	0	52,949
+Poisoned Raubritter	0	137	0	1,002
+Poisonous Carnisylvan	0	695	0	8,204
+Polar Bear	0	845	0	8,993
+Pooka	0	191	0	2,777
+Possessed Tree	0	30	0	223
+Powergenerator	0	1	0	3
+Preceptor Lazare	0	98	0	801
+Priestess	0	614	0	4,378
+Priestess of the Wild Sun	0	9,195	5	54,678
+Primal Pack Beast	0	119	0	1,222
+Professor Maxxen	0	0	0	3
+Putrid Mummy	1	3,756	6	35,967
+Pythius The Rotten	0	0	0	3
+Quara Constrictor	0	605	0	4,890
+Quara Constrictor Scout	0	1,993	0	16,521
+Quara Hydromancer	0	679	0	4,698
+Quara Hydromancer Scout	0	1,957	0	16,125
+Quara Looter	1	2,013	3	5,480
+Quara Mantassin	0	647	0	4,755
+Quara Mantassin Scout	0	637	0	5,734
+Quara Pincher	0	926	0	6,674
+Quara Pincher Scout	0	2,444	2	18,539
+Quara Plunderer	0	1,398	1	3,908
+Quara Predator	0	731	3	5,591
+Quara Predator Scout	0	2,637	1	22,480
+Quara Raider	1	2,612	4	7,261
+Quara Saboteur	0	26	0	26
+Rabbit	0	457	0	3,875
+Rabid Wolf	0	112	0	1,604
+Radiant Acolyte	0	0	5	15
+Radiant Inquisitor	0	0	5	0
+Radiant Paragon	0	0	1	12
+Radiant Templar	0	0	1	0
+Radiant Warden	1	0	5	27
+Radiant Zealot	0	0	3	0
+Radicular Totem	2	0	21	0
+Rage of Mazoran	0	0	0	511
+Rage Squid	0	4,097	10	52,812
+Ragged Rabid Wolf	0	48	0	468
+Ragiaz	0	0	0	17
+Raging Fire	0	0	0	102
+Raging mage	0	0	0	1
+Raging Raubritter	0	142	2	1,016
+Rahemos	0	2	0	6
+Rakesh Moonfang	0	9	0	90
+Rampant Barrier	0	14	0	40
+Rat	0	2,381	0	17,797
+Ratmiral Blackwhiskers	0	11	2	71
+Raubritter Chastener	1	2,144	5	14,578
+Raubritter Marksman	0	3,663	2	21,249
+Raubritter Skirmisher	2	4,772	8	27,994
+Ravenous Beyondling	0	81	0	529
+Ravenous Hunger	0	43	0	308
+Ravenous Lava Lurker	0	290	2	7,345
+Raxias	0	6	0	34
+Razzagorn	0	2	0	23
+Reality Reaver	1	14,342	17	116,103
+Realityquake	0	30	1	240
+Redeemed Soul	0	67	0	588
+Reflection Of A Mage	0	1	0	4
+Reflection Of Mawhawk	0	1	0	4
+Reflection Of Obujos	0	1	0	4
+Regenerating Mass	0	9	0	85
+Renegade Knight	0	4,389	9	37,317
+Renegade Orc	0	0	0	1
+Renegade Quara Constrictor	0	79	0	301
+Renegade Quara Hydromancer	0	30	0	116
+Renegade Quara Mantassin	0	51	0	159
+Renegade Quara Pincher	0	12	0	41
+Renegade Quara Predator	0	18	0	53
+Retainer of Baeloc	0	246	0	2,283
+Retching Horror	1	19,147	33	142,087
+Retros Treasure	0	1	0	4
+Rewar The Bloody	0	9	0	85
+Rhindeer	1	31,696	25	231,212
+Rift Breacher	0	69	0	526
+Rift Fragment	0	7	0	195
+Rift Invader	0	255	0	3,294
+Rift Minion	0	94	0	586
+Rift Spawn	1	80	2	521
+Ripper Spectre	0	8,979	5	74,491
+Risen Soldier	0	550	5	5,161
+Roaming Dread	0	7,830	4	51,640
+Roaring Lion	0	767	0	6,068
+Roaring Water Elemental	0	0	0	57
+Rocko	0	0	0	1
+Rocky	0	1	0	15
+Rogue Naga	0	3,047	1	19,561
+Rootthing Amber Shaper	0	419	1	845
+Rootthing Bug Tracker	0	560	14	1,320
+Rootthing Nutshell	0	1,073	3	2,468
+Rorc	0	993	0	3,895
+Rot Elemental	0	2,215	2	21,557
+Rotten Golem	0	2,154	3	9,743
+Rotten Man-maggot	0	3,920	5	34,774
+Rotworm	2	8,068	8	50,806
+Rukor Zad	0	0	0	1
+Rupture	0	27	0	226
+Rustheap Golem	5	7,977	41	62,598
+Sabretooth	6	669	14	3,991
+Sacred Spider	0	1,427	3	11,197
+Salamander	0	233	0	5,086
+Sand Brood	0	120	0	922
+Sandcrawler	0	2,249	0	16,646
+Sandstone Scorpion	0	3,849	4	27,077
+Scarab	0	8,253	0	70,857
+Scarith's Soulcage	0	14	0	53
+Scarith's Spirit	0	14	0	53
+Scarlett Etzel	3	185	32	1,319
+Scissorion	0	268	9	1,096
+Scorn Of The Emperor	0	2	0	8
+Scorpion	0	4,116	1	32,330
+Sea Captain	0	124	0	639
+Sea Serpent	0	208	0	4,003
+Seacrest Serpent	0	224	0	2,823
+Seagull	0	258	0	1,579
+Security Golem	0	32	0	200
+Serpent Spawn	0	7,911	8	56,817
+Servant Of Tentugly	0	221	0	1,938
+Shaburak Demon	0	1,484	2	11,024
+Shaburak Lord	0	89	0	881
+Shaburak Prince	0	45	0	432
+Shadow Fiend	0	55	0	390
+Shadow Pupil	0	541	0	1,989
+Shadow Tentacle	0	30	0	220
+Shadowpelt	0	67	0	541
+Shaper Matriarch	0	90	0	1,593
+Shard of Magnor	0	36	2	340
+Shark	0	356	0	2,650
+Sharpclaw	0	68	0	601
+Sharptooth	0	4	0	21
+Sheep	0	54	0	562
+Shell Drake	0	737	4	11,139
+Shiversleep	0	0	0	19
+Shock Head	5	1,975	25	11,171
+Shrieking Cry-stal	0	0	1	717
+Shulgrax	0	1	0	21
+Sibang	0	2,446	0	22,485
+Sight of Surrender	0	4	0	308
+Silencer	1	34,957	9	205,991
+Silver Rabbit	0	228	0	2,670
+Silverfrost Sentinel	2	789	15	5,037
+Sin Devourer	0	4	0	93
+Sineater Inferniarch	1	8,833	10	57,669
+Sir Baeloc	1	22	2	184
+Sir Leonard	0	40	3	272
+Sir Nictros	1	22	2	182
+Sir Valorcrest	0	0	0	1
+Sister Hetai	0	20	0	122
+Skeleton	0	5,885	2	48,523
+Skeleton Elite Warrior	2	3,257	48	29,235
+Skeleton Warrior	0	1,153	0	5,754
+Skunk	0	238	0	1,729
+Slick Water Elemental	0	0	0	62
+Slim	0	1	0	14
+Slime	0	1,899	0	14,114
+Slippery Northern Pike	0	192	0	806
+Slug	0	21	0	183
+Smuggler	0	1,186	0	10,884
+Snail Slime	0	0	0	21
+Snake	0	3,373	0	24,236
+Snake God Essence	0	3	0	9
+Snake Thing	0	3	0	9
+Solitary Frost Dragon	0	11	0	84
+Son of Verminor	0	230	0	3,812
+Sopping Carcass	4	3,260	6	27,840
+Sopping Corpus	0	3,692	2	23,407
+Sorcerer Rival	0	4	0	82
+Sorcerer's Apparition	0	881	0	4,765
+Soul Cage	0	17	0	179
+Soul of Dragonking Zyrtarch	0	3	0	18
+Soul Scourge	0	236	1	1,799
+Soul Sphere	0	14	0	201
+Soul-Broken Harbinger	1	3,523	16	20,490
+Soulcatcher	0	0	0	3
+Souleater	0	2,745	1	19,974
+Soulless Minion	0	463	0	3,503
+Soulsnatcher	0	0	0	28
+Spark of Destruction	0	4,175	0	31,619
+Sparkion	0	16,235	9	126,969
+Spawn of Havoc	0	15	0	143
+Special Demon	0	0	3	8
+Special Warlock	0	0	0	1
+Spectre	2	34,143	6	233,018
+Spellreaper Inferniarch	0	3,298	0	19,337
+Sphinx	9	15,860	37	95,731
+Spider	0	1,324	0	8,568
+Spidris	0	1,009	0	7,875
+Spidris Elite	0	139	0	1,015
+Spiky Carnivor	0	15,715	11	100,845
+Spirit of Earth	0	1	0	14
+Spirit of Fire	0	1	0	14
+Spirit of Water	0	1	0	14
+Spit Nettle	0	387	0	2,820
+Spite Of The Emperor	0	2	0	8
+Spiteful Spitter	0	12	1	72
+Spitter	0	3,181	1	24,053
+Splasher	0	1	0	6
+Squid Warden	2	1,288	25	16,061
+Squidgy Slime	0	2,328	0	19,444
+Squire of Nictros	0	408	0	3,375
+Squirrel	0	24	0	285
+Srezz Yellow Eyes	0	168	0	1,263
+Stabilizing Dread Intruder	0	792	5	9,245
+Stabilizing Reality Reaver	0	777	3	9,132
+Stag	0	71	0	618
+Stalker	0	1,647	3	12,759
+Stalking Stalk	0	2,184	0	16,706
+Stampor	0	0	0	1,940
+Stolen Knowledge of Armor	0	6	0	31
+Stolen Knowledge of Healing	0	6	0	31
+Stolen Knowledge of Lifesteal	0	6	0	31
+Stolen Knowledge of Spells	0	6	0	31
+Stolen Knowledge of Summoning	0	6	0	31
+Stolen Tome of Portals	0	28	0	151
+Stone Devourer	2	648	11	5,366
+Stone Golem	0	1,425	0	13,914
+Stone Rhino	0	40	0	322
+Stonecracker	0	0	0	4
+Stonerefiner	7	18,717	33	101,561
+Streaked Devourer	0	1,505	0	15,181
+Strong Glooth Horror	0	0	0	32
+Sugar Cube	0	54	0	538
+Sugar Cube Worker	0	15	0	223
+Sugar Daddy	0	12	0	148
+Sugar Mommy	0	0	0	26
+Sulphider	2	3,160	7	23,450
+Sulphur Spouter	0	2,255	1	16,114
+Sun-Marked Goanna	0	90	0	710
+Svoren the Mad	0	2	0	15
+Swamp Troll	0	2,443	0	18,324
+Swampling	0	657	2	19,762
+Swan Maiden	0	326	0	3,008
+Swarmer	0	2,774	3	18,288
+Swarmer Hatchling	0	3	0	22
+Symbol of Fear	0	39	0	435
+Symbol of Hatred	0	85	0	865
+Tainted Soul	0	424	0	3,470
+Tainted Soul Splinter	0	264	0	2,196
+Tame Terror Bird	0	0	0	14
+Tamru The Black	0	27	0	194
+Tanjis	0	0	0	36
+Tarantula	1	2,789	6	25,841
+Tarbaz	0	0	0	17
+Tarnished Spirit	3	482	3	1,589
+Tazhadur	0	24	0	196
+Teneshpar	0	1	3	15
+Tentacle	0	664	0	5,656
+Tentacle of the Deep Terror	0	4	0	29
+Tentugly's Head	0	14	1	120
+Terramite	0	1,546	1	9,841
+Terrified Elephant	0	129	0	306
+Terror Bird	0	912	0	6,921
+Terrorsleep	0	2,627	4	25,069
+Thalas	0	1	0	10
+Thanatursus	1	3,096	14	25,665
+Thawing Dragon Lord	0	7	0	45
+The Armored Voidborn	0	8	0	47
+The Axeorcist	0	0	0	1
+The Baron From Below	0	3	0	24
+The Big Bad One	0	0	0	1
+The Blazing Rose	0	17	0	86
+The Blazing Time Guardian	0	0	0	2
+The Blightfather	0	0	0	2
+The Book of Death	0	10	0	40
+The Book of Secrets	0	3	0	21
+The Brainstealer	0	1	1	6
+The Cold Of Winter	0	0	0	681
+The Collector	0	3	0	5
+The Corruptor	0	6	0	35
+The Count Of The Core	0	3	2	22
+The Dark Dancer	0	1	0	14
+The Destruction	0	3	1	27
+The Devourer of Secrets	0	5	0	31
+The Diamond Blossom	0	18	0	90
+The Dread Maiden	0	12	2	94
+The Dreadorian	0	0	0	1
+The Duke Of The Depths	0	3	2	23
+The Enraged Thorn Knight	0	4	1	36
+The Evil Eye	0	0	1	0
+The False God	0	5	0	25
+The Fear Feaster	0	11	0	102
+The Flaming Orchid	0	52	0	448
+The Forgemaster	0	2	0	8
+The Freezing Time Guardian	0	1	0	8
+The Frog Prince	0	0	0	1
+The Gravedigger	0	12	2	63
+The Hag	0	1	0	14
+The Hairy One	0	1	0	15
+The Heat Of Summer	0	0	0	810
+The Horned Fox	0	0	0	79
+The Hunger	0	3	0	28
+The Hungerer	0	2	0	2
+The Last Lore Keeper	0	0	0	2
+The Lily Of Night	0	16	0	85
+The Lord of the Lice	0	4	0	31
+The Many	0	1	0	2
+The Masked Marauder	0	2	0	13
+The Mean Masher	0	1	0	1
+The Mega Magmaoid	0	0	0	6
+The Monster	0	37	0	247
+The Moonlight Aster	0	52	0	438
+The Moonsnow Magnolia	1	191	10	1,354
+The Nightmare Beast	0	6	1	45
+The Noxious Spawn	0	0	0	4
+The Obliverator	0	2	0	13
+The Old Whopper	0	0	0	1
+The Old Widow	0	0	0	1
+The Pale Worm	0	11	4	99
+The Pit Lord	0	2	0	15
+The Primal Menace	0	5	2	51
+The Rage	0	3	0	28
+The Red Knight	0	0	0	2
+The Rootkraken	0	1	0	3
+The Sandking	0	5	0	36
+The Scion of Havoc	0	5	0	31
+The Scourge Of Oblivion	1	5	6	30
+The Shatterer	0	1	0	14
+The Shielded Thorn Knight	0	4	0	36
+The Sinister Hermit	0	7	0	53
+The Souldespoiler	0	3	1	20
+The Spellstealer	0	5	0	31
+The Time Guardian	0	2	0	9
+The Unarmored Voidborn	0	8	0	48
+The Unwelcome	0	12	0	91
+The Winter Bloom	0	49	0	373
+Thorn Minion	0	123	0	1,191
+Thorn Steed	0	4	0	36
+Thornback Tortoise	0	3,769	0	33,341
+Thornfire Wolf	0	3	0	28
+Tibianus	0	123	0	790
+Tiger	0	207	0	1,566
+Time Keeper	0	4	0	40
+Timira The Many-Headed	0	84	1	545
+Tiquandas Revenge	0	0	0	2
+Tirecz	0	0	0	1
+Titano Dragon	0	1	0	17
+Toad	0	1,973	0	13,561
+Tomb Servant	0	1,198	0	11,079
+Tortoise	0	4,944	0	39,754
+Toxic Swarm	0	211	0	1,570
+Trapped Soul	0	495	1	4,487
+Tremendous Tyrant	0	20	0	3,587
+Tremorak	0	0	0	1
+Troll	0	1,658	0	14,252
+Troll Champion	0	388	0	3,699
+Troll Guard	0	0	0	26
+Troll Legionnaire	0	1	0	56
+Trollwut	0	3	0	23
+Tropical Desolator	0	30	1	174
+True Dawnfire Asura	4	11,568	55	75,810
+True Feverbloom Asura	1	388	1	1,171
+True Frost Flower Asura	0	4,223	1	26,517
+True Midnight Asura	4	13,368	24	84,582
+Truffle	0	22	0	165
+Truffle Cook	0	56	0	274
+Truffle Worker	0	18	0	300
+Tunnel Devourer	0	104	0	631
+Tunnel Tyrant	0	3,661	5	29,864
+Turbulent Elemental	4	10,602	16	54,387
+Twisted Pooka	0	1,083	0	10,683
+Twisted Shaper	0	443	1	3,408
+Two-Headed Turtle	0	5,934	9	52,755
+Tyrn	0	1	0	1
+Ugly Monster	0	13	0	82
+Unaz the Mean	0	66	0	648
+Unbound Blightwalker	0	5	0	38
+Unbound Defiler	0	0	0	34
+Unbound Demon	0	12	0	65
+Unbound Demon Outcast	0	12	0	62
+Unchained Fire	0	98	1	1,412
+Undead Dragon	2	24,907	15	191,701
+Undead Elite Gladiator	2	1,683	2	17,088
+Undead Gladiator	0	2,327	3	19,105
+Undead Mine Worker	0	6	0	52
+Undead Prospector	0	2	0	15
+Undertaker	0	4,295	9	32,003
+Ungreez	0	0	0	8
+Unleashed Hex	0	0	0	4
+Unpleasant Dream	0	0	0	152
+Unstable Spark	0	381	0	3,139
+Urmahlullu the Weakened	0	56	0	408
+Ushuriel	0	4	2	35
+Usurper Archer	4	960	11	9,514
+Usurper Commander	5	761	13	5,620
+Usurper Knight	0	2,312	12	19,876
+Usurper Warlock	5	1,545	16	13,546
+Utua Stone Sting	0	167	0	1,260
+Valkyrie	0	1,116	3	9,142
+Vampire	0	1,843	0	18,647
+Vampire Bride	0	866	1	12,052
+Vampire Pig	0	0	0	18
+Vampire Viscount	0	1,256	1	17,109
+Vampiric Blood	0	70	0	661
+Vampiric Essence	0	156	0	516
+Vampiric Flesh	0	40	0	82
+Vampiric Heart	0	5	0	9
+Varg	0	6,114	0	35,211
+Varnished Diremaw	0	22	0	3,730
+Vashresamun	0	0	0	4
+Vemiath	1	4	2	65
+Venerable Foam Stalker	0	64	1	521
+Venerable Girtablilu	0	3,486	0	30,808
+Vengar	0	34	0	231
+Vermin Swarm	0	28	0	121
+Versperoth	0	3	0	24
+Vexclaw	3	51,559	35	385,609
+Vibrant Phantom	0	570	3	6,569
+Vicious Ink Splash	0	22	0	126
+Vicious Lich	0	66	0	480
+Vicious Squire	1	8,116	11	70,131
+Vile Destroyer	0	4	0	46
+Vile Grandmaster	2	2,616	16	21,889
+Vilear	0	34	0	230
+Vladrukh	1	13	2	43
+Voidshard	0	90	0	554
+Vok The Freakish	0	60	0	599
+Vulcongra	0	413	0	3,686
+Wafer Paper Butterfly	0	44	0	260
+Wailing Widow	0	3,581	0	28,140
+Walker	0	3	0	379
+Walking Dread	2	880	8	5,253
+Walking Pillar	2	6,281	18	44,953
+Wandering Pillar	0	2,867	5	33,160
+War Golem	6	4,691	32	34,889
+War Servant	0	7	0	80
+War Wolf	0	13,615	1	95,540
+Wardragon	1	12,573	6	99,623
+Warlock	0	35	1	341
+Warlord Ruzad	0	0	0	1
+Wasp	0	1,776	0	13,326
+Waspoid	3	4,748	17	33,435
+Water Buffalo	0	249	1	1,441
+Water Elemental	1	472	1	5,446
+Weakened Frazzlemaw	6	17,649	21	117,404
+Weakened Glooth Horror	0	0	0	8
+Weakened Shlorg	0	0	0	1
+Webster	0	2	0	15
+Weeper	3	3,261	9	30,714
+Weeping Soul	0	24	0	228
+Werebadger	1	5,813	5	39,184
+Werebear	1	5,323	5	38,612
+Wereboar	3	7,686	18	49,097
+Werecrocodile	0	4,568	1	31,302
+Werefox	0	1,711	0	19,575
+Werehyaena	3	16,668	33	106,277
+Werehyaena Shaman	3	6,649	43	40,938
+Werelion	4	19,702	25	133,291
+Werelioness	2	16,848	11	116,339
+Werepanther	0	6,416	1	43,908
+Weretiger	0	10,678	5	64,410
+Werewolf	0	3,666	1	27,597
+White Deer	0	75	0	649
+White Lion	0	6,893	5	46,657
+White Shade	0	282	0	1,727
+White tiger	0	169	0	1,401
+White Weretiger	1	4,148	7	25,101
+Wiggler	0	497	0	4,846
+Wild Horse	0	0	0	1
+Wild Knowledge	0	226	0	1,147
+Wild Warrior	0	2,130	1	17,346
+Wilting Leaf Golem	1	1,660	1	11,984
+Winged Jaracal	0	2,214	11	13,201
+Winter Wolf	0	1,406	0	23,520
+Wisp	0	188	0	1,405
+Witch	0	885	1	12,486
+Wolf	0	2,875	0	20,762
+Worker Golem	0	7,047	0	53,081
+Worker Imp	0	0	0	11
+World Devourer	0	3	0	25
+Worm Priestess	2	5,338	17	38,972
+Wormling	0	407	0	3,024
+Wrath Of The Emperor	0	1	0	7
+Wrathful Archivist	0	23	0	143
+Writhing Mass	0	16	0	70
+Wyrm	0	10,904	12	82,744
+Wyvern	1	2,312	4	17,474
+Xenia	0	0	0	1
+Xogixath	0	6	0	51
+Yakchal	0	1	0	5
+Yalahari Despoiler	0	81	0	556
+Yeti	0	0	0	28
+Yielothax	0	983	0	5,651
+Yirkas Blue Scales	0	167	0	1,263
+Yorik Youngbook	0	12	0	64
+Young Goanna	2	8,675	8	67,883
+Young Sea Serpent	0	44	0	1,106
+Young Troll	0	11	0	133
+Zamulosh	0	0	0	7,278
+Zavarash	0	0	0	1
+Zevelon Duskbringer	0	0	1	2
+Zharvorin's Soulcage	0	14	0	55
+Zharvorin's Spirit	0	14	0	55
+Zombie	0	255	1	4,122
+Zorvorax	0	20	0	172
+Zugurosh	0	4	0	69
+Zulazza The Corruptor	0	0	0	1

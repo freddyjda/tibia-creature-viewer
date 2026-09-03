@@ -18,12 +18,12 @@ const AVG_COLS = [
   { key: "creature_name", label: "Criatura" },
   { key: "server_count", label: "Servers" },
   { key: "hp", label: "HP", numeric: true },
+  { key: "total_players_week", label: "Total Players Semana" },
+  { key: "total_kills_week", label: "Total Kills Semana" },
   { key: "avg_players_day", label: "Prom. Players Dia" },
   { key: "avg_kills_day", label: "Prom. Kills Dia" },
   { key: "avg_players_week", label: "Prom. Players Semana" },
   { key: "avg_kills_week", label: "Prom. Kills Semana" },
-  { key: "total_players_week", label: "Total Players Semana" },
-  { key: "total_kills_week", label: "Total Kills Semana" },
 ];
 
 function formatNum(n) {
@@ -227,7 +227,7 @@ $("#btn-view").addEventListener("click", () => {
 
 $("#btn-avg").addEventListener("click", () => {
   currentView = "avg";
-  currentSort = { col: "avg_kills_week", dir: "desc" };
+  currentSort = { col: "creature_name", dir: "asc" };
   $("#btn-avg").classList.add("active");
   $("#btn-view").classList.remove("active");
   loadData();
