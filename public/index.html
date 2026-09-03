@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tibia Creature Viewer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Tibia Creature Viewer</h1>
+    <div class="controls">
+      <input type="text" id="search" placeholder="Buscar criatura...">
+      <select id="server-filter">
+        <option value="all">Todos los servers</option>
+      </select>
+      <div class="filter-group">
+        <label>HP</label>
+        <input type="number" id="hp-min" placeholder="min" min="0">
+        <span>–</span>
+        <input type="number" id="hp-max" placeholder="max" min="0">
+      </div>
+      <div class="toggle-view">
+        <button id="btn-view" class="active">Por Server</button>
+        <button id="btn-avg">Promedio General</button>
+      </div>
+    </div>
+  </header>
+
+  <section id="stats-bar" class="stats-bar">
+    <div class="stat"><span id="stat-servers">0</span><small>Servers</small></div>
+    <div class="stat"><span id="stat-creatures">0</span><small>Criaturas</small></div>
+    <div class="stat"><span id="stat-kills-week">0</span><small>Kills Semana</small></div>
+    <div class="stat"><span id="stat-players-week">0</span><small>Players Muertos Semana</small></div>
+  </section>
+
+  <main>
+    <div class="table-wrapper">
+      <table id="data-table">
+        <thead id="table-head"></thead>
+        <tbody id="table-body"></tbody>
+      </table>
+    </div>
+    <div id="loading" class="loading">Cargando...</div>
+    <div id="no-data" class="no-data" style="display:none">No se encontraron resultados</div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
